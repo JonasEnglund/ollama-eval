@@ -1,0 +1,15 @@
+{"input": "How do I reset my password?", "expected": "Go to settings, click security, select reset password, follow the email link."}
+{"input": "What is your refund policy?", "expected": "We offer full refunds within 30 days of purchase."}
+{"input": "How do I contact support?", "expected": "You can contact support via chat, email at support@example.com, or call 1-800-123-4567."}
+{"input": "Where is my order?", "expected": "You can track your order at example.com/track using your order number."}
+{"input": "How do I cancel my subscription?", "expected": "Go to account settings, select subscriptions, choose the plan and click cancel."}
+{"input": "My payment failed, what do I do?", "expected": "Try updating your payment method in billing settings or contact your bank."}
+{"input": "I can't log into my account", "expected": "Click forgot password to reset, or contact support if the issue persists."}
+{"input": "What are your business hours?", "expected": "We are open Monday to Friday 9am to 6pm EST."}
+{"input": "Is shipping free?", "expected": "Free shipping is available on orders over $50."}
+{"input": "How do I change my email?", "expected": "Update your email in account settings, you will receive a verification link."}
+{"input": "Do you support JSON output?", "expected": "Yes, set format to json in your request."}
+{"input": "What models are available?", "expected": "We support llama3, mistral, codellama, and many others. Run ollama list to see all."}
+{"input": "How much memory do I need?", "expected": "8GB RAM minimum, 16GB recommended for larger models."}
+{"input": "Can I run Ollama on Windows?", "expected": "Yes, use WSL or Docker on Windows."}
+{"input": "How do I use the API?", "expected": "Send POST requests to localhost:11434/api/generate with model and prompt."}
