@@ -1,6 +1,6 @@
 # Binaries
-ollama-eval
-cmd/ollama-eval/ollama-eval
+/ollama-eval
+/cmd/ollama-eval/ollama-eval
 *.exe
 
 # Build output
